@@ -1,0 +1,10 @@
+package com.yodc.nritham;
+
+public class Nike 
+
+{
+	public void catchPhrase()
+	{
+		System.out.println("Just Do It!");
+	}
+}

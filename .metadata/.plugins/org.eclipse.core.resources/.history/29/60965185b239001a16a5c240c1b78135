@@ -1,0 +1,6 @@
+package com.yodc.nritham;
+
+[rp interface Shoe {
+
+	void catchPhrase();
+}

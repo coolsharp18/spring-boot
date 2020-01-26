@@ -1,0 +1,13 @@
+package com.yodc.nritham;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class AppConfig {
+
+	@bean
+	public Shoe getShoe()
+	{
+		return new Nike();
+	}
+}

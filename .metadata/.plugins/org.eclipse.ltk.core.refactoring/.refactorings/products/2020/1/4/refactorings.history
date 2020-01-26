@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.yodc.nritham&apos; to &apos;com.yodc.products&apos;&#x0D;&#x0A;- Original project: &apos;products&apos;&#x0D;&#x0A;- Original element: &apos;products/src/main/java/com.yodc.nritham&apos;&#x0D;&#x0A;- Renamed element: &apos;products/src/main/java/com.yodc.products&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.yodc.nritham&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.yodc.nritham" name="com.yodc.products" qualified="false" references="true" stamp="1580043246554" textual="false" version="1.0"/>
+</session>

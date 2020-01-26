@@ -1,0 +1,13 @@
+package com.yodc.nritham;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Nike implements Shoe
+
+{
+	public void catchPhrase()
+	{
+		System.out.println("Just Do It!");
+	}
+}

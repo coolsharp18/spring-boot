@@ -1,0 +1,6 @@
+package com.yodc.nritham;
+
+protected interface Shoe {
+
+	void catchPhrase();
+}

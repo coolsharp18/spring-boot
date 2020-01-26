@@ -1,0 +1,17 @@
+package com.example.demo.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.;
+
+@Controller
+public class AlienController {
+
+	@RequestMapping("home")
+	public ModelAndView home(Alien alien)
+	{
+		ModelAndView mv = new ModelAndView();
+		mv.addObject("obj",alien);
+		mv.setViewName("home");
+		return mv;
+	}
+}

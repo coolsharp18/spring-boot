@@ -1,0 +1,10 @@
+package com.yodc.nritham;
+
+public class Adidas implements Shoe
+{
+
+	public void catchPhrase()
+	{
+		System.out.println("Impossible is nothing");
+	}
+}
